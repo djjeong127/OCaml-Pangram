@@ -1,2 +1,2 @@
-# Pangram
-A program that takes a .txt file as input and determines if each line in the file is a pangram.
+# OCaml-Language-Interpreter
+Simple interpreter for an OCaml-like, stack-based, bytecode language
