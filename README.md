@@ -1,2 +1,2 @@
-# OCaml-Language-Interpreter
-Simple interpreter for an OCaml-like, stack-based, bytecode language
+# OCaml-Pangram
+OCaml program that takes a .txt file as input and output. Checks whether each line in the input file is a pangram or not.
